@@ -19,11 +19,7 @@ This project is a great demonstration of utilizing coordinate systems, handling 
 
 ## 🎮 Gameplay Preview
 
-*(Oyunun ekran görüntüsünü veya kısa bir GIF'ini buraya sürükleyip bırakabilirsin)*
-
-<p align="center">
-  <i>Add your game screenshot or GIF here via GitHub editor!</i>
-</p>
+<img width="735" height="625" alt="image" src="https://github.com/user-attachments/assets/2745bd81-13ef-4bbf-861c-c205df00492a" />
 
 ---
 
